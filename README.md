@@ -18,6 +18,7 @@ Jumper Wires & Breadboard	–	Wiring
 
 How the System Works
 
+
 1) DHT11 measures room temperature
 2) Potentiometer sets threshold (20°C – 40°C)
 3) Arduino compares temperature with threshold
